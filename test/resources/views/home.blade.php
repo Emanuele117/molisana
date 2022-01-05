@@ -10,3 +10,12 @@
     <h1>{{$message}}</h1>
 </body>
 </html>
+
+<!-- problemi -->
+
+<!-- 
+- ho dovuto creare la cartella "test" dentro molisana altrimenti non riuscivo a creare lo scaffolding, mi dava questo errore [InvalidArgumentException]
+  Project directory "C:\Users\emanu\Desktop\Boolean\Laravel\molisana\." is not empty.
+
+- non sono riuscito a recuperare la consegna dell'esercizio, hopotuto vedere solamente la correzione nella registrazione della lezione.
+ -->
